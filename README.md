@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aryan Gupta
-- 👀 I’m interested in game, app and web development.
+- 👀 I’m interested in game dev and aws cloud.
 - 🌱 I’m currently learning all of the above
 - 💞️ I’m looking to collaborate on ANYTHING.
 - 📫 How to reach me ...
